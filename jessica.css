@@ -1,0 +1,19 @@
+table, th {
+	padding:10px;
+	border: 1px solid black;
+} 
+table{
+	border-collapse: collapse;
+}
+h1{
+	color: #F08080
+}
+h2{
+	color: #ADD8E6 
+}
+h3{
+	color:   #0099CC
+}
+body{
+	background-color: #F5FFFA 
+}
