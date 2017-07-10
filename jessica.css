@@ -1,19 +1,28 @@
 table, th {
 	padding:10px;
 	border: 1px solid black;
-} 
+}
 table{
 	border-collapse: collapse;
 }
 h1{
-	color: #F08080
+	color: #F08080;
+	font-family: Georgia;
 }
 h2{
-	color: #ADD8E6 
+	color: #AF7AC5;
+	font-family: Georgia;
 }
 h3{
-	color:   #0099CC
+	font-size: 20px;
+	font-family: Georgia;
+	color:   #0099CC;
+}
+h4{
+	font-size: 20px;
+	font-family: Georgia;
+	color:   #0099CC;
 }
 body{
-	background-color: #F5FFFA 
+	background-image: url("http://hdflowerwallpaper.com/wallpaper/2015/07/yellow-flower-wallpaper-4-free-hd-wallpaper.png")
 }
