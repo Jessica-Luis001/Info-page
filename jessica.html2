@@ -8,21 +8,28 @@
 <div class="hero-image">
 	<div class="hero-text">
 	  <h1>About me!</h1>
+		<p><center>Welcome to my website.</center></p>
   </div>
 </div>
 <body>
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-	<a href="#">Family</a>
+	<a href="jessicaBasics.html">Basics</a>
+	<a href="jessicaFamily.html">Family</a>
 	<a href="#">Friends</a>
 	<a href="#">Hobbies</a>
 	<a href="#">Education</a>
 	<a href="#">Likes & Dislikes</a>
 </div>
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Personal Information</span>
-<p><center><strong>This website was created to inform the public about myself.</strong></center></p> 
-<p><center><strong>My name is Jessica Marie Luis.</strong></center></p>
-
+<footer>
+	<center><p>Created by: Jessica Luis</p></center>
+	<a href="https://www.instagram.com/luis.jessm/?hl=en">Instagram</a>
+	<a href="https://www.snapchat.com/add/teen_wolf13">Snapchat</a>
+	<a href="https://www.quora.com/">Quora</a>
+	<a href="https://www.pinterest.com/">Pinterest</a>
+	<a href="https://www.linkedin.com/in/jessica-luis-5bb371147">LinkedIn</a>
+</footer>
 </body>
 </head>
 </html>
